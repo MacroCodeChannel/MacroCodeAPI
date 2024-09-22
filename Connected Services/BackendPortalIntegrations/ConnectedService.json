@@ -1,0 +1,49 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://engineer:7047/BC140/WS/Macro%20Code%20Ltd/Codeunit/BackendPortalIntegrations"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, BackendPortalIntegrations"
+    ],
+    "references": [
+      "Asp.Versioning.Abstractions, {Asp.Versioning.Abstractions, 8.1.0}",
+      "Asp.Versioning.Http, {Asp.Versioning.Http, 8.1.0}",
+      "Asp.Versioning.Mvc, {Asp.Versioning.Mvc, 8.1.0}",
+      "AspNetCoreRateLimit, {AspNetCoreRateLimit, 5.0.0}",
+      "Microsoft.Bcl.AsyncInterfaces, {Microsoft.Bcl.AsyncInterfaces, 8.0.0}",
+      "Microsoft.Extensions.Caching.Abstractions, {Microsoft.Extensions.Caching.Abstractions, 6.0.0}",
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 6.0.0}",
+      "Microsoft.Extensions.Logging.Abstractions, {Microsoft.Extensions.Logging.Abstractions, 6.0.3}",
+      "Microsoft.Extensions.ObjectPool, {Microsoft.Extensions.ObjectPool, 6.0.16}",
+      "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 6.0.0}",
+      "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 8.0.0}",
+      "Microsoft.OData.Client, {Microsoft.OData.Client, 7.21.3}",
+      "Microsoft.OData.Core, {Microsoft.OData.Core, 7.21.3}",
+      "Microsoft.OData.Edm, {Microsoft.OData.Edm, 7.21.3}",
+      "Microsoft.OpenApi, {Microsoft.OpenApi, 1.2.3}",
+      "Microsoft.Spatial, {Microsoft.Spatial, 7.21.3}",
+      "Newtonsoft.Json, {Newtonsoft.Json, 13.0.2}",
+      "Swashbuckle.AspNetCore.Swagger, {Swashbuckle.AspNetCore.Swagger, 6.4.0}",
+      "Swashbuckle.AspNetCore.SwaggerGen, {Swashbuckle.AspNetCore.SwaggerGen, 6.4.0}",
+      "Swashbuckle.AspNetCore.SwaggerUI, {Swashbuckle.AspNetCore.SwaggerUI, 6.4.0}",
+      "System.ComponentModel.Annotations, {System.ComponentModel.Annotations, 5.0.0}",
+      "System.Formats.Asn1, {System.Formats.Asn1, 6.0.0}",
+      "System.Runtime.CompilerServices.Unsafe, {System.Runtime.CompilerServices.Unsafe, 4.6.0}",
+      "System.Security.AccessControl, {System.Security.AccessControl, 6.0.0}",
+      "System.Security.Cryptography.Pkcs, {System.Security.Cryptography.Pkcs, 6.0.1}",
+      "System.Security.Cryptography.Xml, {System.Security.Cryptography.Xml, 6.0.1}",
+      "System.ServiceModel.Http, {System.ServiceModel.Http, 8.0.0}",
+      "System.ServiceModel.Primitives, {System.ServiceModel.Primitives, 8.0.0}",
+      "System.Text.Encodings.Web, {System.Text.Encodings.Web, 8.0.0}",
+      "System.Text.Json, {System.Text.Json, 8.0.4}"
+    ],
+    "sync": true,
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
